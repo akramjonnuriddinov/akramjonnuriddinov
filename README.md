@@ -1,4 +1,6 @@
-<h3 align="center">Frontend dasturchi</h3>
+# Akramjon Nuriddinov
+<!-- <h3 align="center"></h3> -->
+Frontend dasturchi. Frontend dasturlashni 2022-yil boshidan beri o'rganyapman.
 
 - 🌱 Hozirda **HTML, CSS, GITHUB, SCSS, BOOTSTRAP, GULP, JAVASCRIPT** ni
 o'rganyapman - 📫 Email: **akramjonmohirdev@gmail.com**
