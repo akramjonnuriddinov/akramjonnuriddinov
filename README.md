@@ -1,9 +1,7 @@
 # Akramjon Nuriddinov
 <!-- <h3 align="center"></h3> -->
-Frontend dasturchi. Frontend dasturlashni 2022-yil boshidan beri o'rganyapman.
-
-- 🌱 Hozirda **HTML, CSS, GITHUB, SCSS, BOOTSTRAP, GULP, JAVASCRIPT** ni
-o'rganyapman - 📫 Email: **akramjonmohirdev@gmail.com**
+I am a frontend developer. I have been learning programming since January 2022 
+- 🌱 My skills is **HTML, CSS, GITHUB, SCSS, BOOTSTRAP, GULP, JAVASCRIPT**  - 📫 Email: **akramjonmohirdev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
