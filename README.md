@@ -1,7 +1,7 @@
 # Akramjon Nuriddinov
 <!-- <h3 align="center"></h3> -->
 I am a frontend developer. I have been learning programming since January 2022 
-- 🌱 My skills is **HTML, CSS, GITHUB, SCSS, BOOTSTRAP, GULP, JAVASCRIPT**  - 📫 Email: **akramjonmohirdev@gmail.com**
+- 🌱 My skills is **HTML, CSS, GITHUB, SCSS, BOOTSTRAP, GULP, JAVASCRIPT**  - 📫 Email: **nn.akramjon@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
