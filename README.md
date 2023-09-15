@@ -1,7 +1,7 @@
 # Akramjon Nuriddinov
 <!-- <h3 align="center"></h3> -->
 I am a frontend developer. I have been learning programming since January 2022 
-- 🌱 My skills is **HTML, CSS, GitHub, Scss, Tailwind CSS, JavaScript, Vue.js**  - 📫 Email: **nn.akramjon@gmail.com**
+- 🌱 My skills are **HTML, CSS, GitHub, Scss, Tailwind CSS, JavaScript, Vue.js**  - 📫 Email: **nn.akramjon@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
