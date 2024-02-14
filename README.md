@@ -1,4 +1,4 @@
-# Akramjon Nuriddinov
+<!--# Akramjon Nuriddinov
 I am a frontend developer. I have been learning programming since January 2022 
 - My skills are **HTML, CSS, GitHub, Scss, Tailwind CSS, JavaScript, Vue.js, Vuex, Pinia**  - Email: **nn.akramjon@gmail.com**
 
@@ -25,11 +25,4 @@ I am a frontend developer. I have been learning programming since January 2022
     alt="akramjonnuriddinov"
   />
 </p>
-
-
-<h3 align="left">I use:</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,sass,tailwind,js,ts,vue,firebase,pinia,vuex" />
-  </a>
-</p>
+-->
